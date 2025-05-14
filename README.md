@@ -109,7 +109,7 @@ page - 2
 </div>
 ~~~
 ## OUTPUT:
-[text](README.md)
+![alt text](1.jpg)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
